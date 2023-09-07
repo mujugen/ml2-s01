@@ -1,3 +1,5 @@
 Hi, My name is Christian Kalki M. Lamadrid
 
 I recently worked as a web developer intern for WPH Digital for the past three months. I'm now working on my thesis and we're on track to collect data for our machine learning model.
+
+I like programming, I'm most proficient in using React for making my web apps. I like playing video games, I usually play single player games or fun coop games with my girlfriend. I like a wide variety of music, I listen to all kinds of music depending on what I feel for a month. I like sci-fi, space, and superhero films. I'm a big follower in what's new in tech, I'm always interested in the next new tech. I like working out because it makes me feel good.
